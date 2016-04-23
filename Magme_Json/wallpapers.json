@@ -3,12 +3,28 @@
       {
          "author": "David Ratkovic",
          "url": "https://raw.githubusercontent.com/DaviidH/Magme-Wallpapers/master/Magme_Json/Landscape46.jpg",
-         "name": "Cartoon1"
+         "name": "Magme1"
       },
       {
          "author": "David Ratkovic",
          "url": "https://raw.githubusercontent.com/DaviidH/Magme-Wallpapers/master/Magme_Json/Landscape47.jpg",
-         "name": "Cartoon2"
+         "name": "Magme2"
+      },
+      {
+         "author": "David Ratkovic",
+         "url": "https://raw.githubusercontent.com/DaviidH/Magme-Wallpapers/master/Magme_Json/Landscape32.jpg",
+         "name": "Magme3"
+      },
+      {
+         "author": "David Ratkovic",
+         "url": "https://raw.githubusercontent.com/DaviidH/Magme-Wallpapers/master/Magme_Json/Landscape33.jpg",
+         "name": "Magme4"
+      },
+      {
+         "author": "David Ratkovic",
+         "url": "https://raw.githubusercontent.com/DaviidH/Magme-Wallpapers/master/Magme_Json/Random18.jpg",
+         "name": "Magme5"
       }
+      
    ]
 }
